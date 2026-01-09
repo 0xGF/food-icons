@@ -2,7 +2,7 @@
 
 135 cute mascot-style food and ingredient icons with transparent backgrounds.
 
-![preview](https://raw.githubusercontent.com/0xGF/anime-icon-maker/master/assets/main.png)
+![preview](main.png)
 
 ## style
 
