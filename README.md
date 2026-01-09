@@ -4,14 +4,14 @@ A collection of **135 beautiful food and ingredient icons** for recipe apps, foo
 
 ## Preview
 
-|                       |                         |                             |                       |                       |
-| :-------------------: | :---------------------: | :-------------------------: | :-------------------: | :-------------------: |
+|                             |                               |                                   |                             |                             |
+| :-------------------------: | :---------------------------: | :-------------------------------: | :-------------------------: | :-------------------------: |
 | ![almond](icons/almond.png) |   ![apple](icons/apple.png)   |   ![avocado](icons/avocado.png)   |  ![bacon](icons/bacon.png)  | ![banana](icons/banana.png) |
-|        almond         |          apple          |           avocado           |         bacon         |        banana         |
+|           almond            |             apple             |              avocado              |            bacon            |           banana            |
 |   ![beef](icons/beef.png)   |   ![bread](icons/bread.png)   |  ![broccoli](icons/broccoli.png)  | ![butter](icons/butter.png) | ![carrot](icons/carrot.png) |
-|         beef          |          bread          |          broccoli           |        butter         |        carrot         |
+|            beef             |             bread             |             broccoli              |           butter            |           carrot            |
 | ![cheese](icons/cheese.png) | ![chicken](icons/chicken.png) | ![chocolate](icons/chocolate.png) |    ![egg](icons/egg.png)    | ![garlic](icons/garlic.png) |
-|        cheese         |         chicken         |          chocolate          |          egg          |        garlic         |
+|           cheese            |            chicken            |             chocolate             |             egg             |           garlic            |
 
 ## All Icons (135)
 
