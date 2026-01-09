@@ -1,46 +1,62 @@
-# food-icons
+# Food Icons 🍳
 
-135 cute mascot-style food and ingredient icons with transparent backgrounds.
+A collection of **135 beautiful food and ingredient icons** for recipe apps, food delivery apps, and cooking websites.
 
-![preview](main.png)
+## Preview
 
-## style
+|                       |                         |                             |                       |                       |
+| :-------------------: | :---------------------: | :-------------------------: | :-------------------: | :-------------------: |
+| ![almond](almond.png) |   ![apple](apple.png)   |   ![avocado](avocado.png)   |  ![bacon](bacon.png)  | ![banana](banana.png) |
+|        almond         |          apple          |           avocado           |         bacon         |        banana         |
+|   ![beef](beef.png)   |   ![bread](bread.png)   |  ![broccoli](broccoli.png)  | ![butter](butter.png) | ![carrot](carrot.png) |
+|         beef          |          bread          |          broccoli           |        butter         |        carrot         |
+| ![cheese](cheese.png) | ![chicken](chicken.png) | ![chocolate](chocolate.png) |    ![egg](egg.png)    | ![garlic](garlic.png) |
+|        cheese         |         chicken         |          chocolate          |          egg          |        garlic         |
 
-- flat 2d vector design
-- simple black curved line eyes and smile
-- soft friendly colors
-- transparent png backgrounds
-- 1024x1024 resolution
+## All Icons (135)
 
-## categories
+### Proteins
 
-**proteins** — chicken, beef, pork, salmon, shrimp, egg, tofu, bacon, turkey, lamb, tuna, duck, sausage, ham, crab, lobster
+- bacon, beef, chicken, crab, duck, egg, ham, lamb, lobster, pork, salmon, sausage, shrimp, tofu, tuna, turkey
 
-**vegetables** — onion, garlic, tomato, carrot, potato, broccoli, spinach, bell pepper, mushroom, celery, lettuce, cucumber, zucchini, corn, peas, green beans, cabbage, kale, asparagus, cauliflower, eggplant, sweet potato, leek, bok choy, brussels sprouts, jalapeno, artichoke, radish, beet, scallion
+### Vegetables
 
-**fruits** — lemon, lime, apple, banana, orange, avocado, strawberry, mango, pineapple, peach, grape, blueberry, raspberry, watermelon, coconut, cherry, pear, kiwi, cranberry
+- artichoke, asparagus, beet, bell-pepper, bok-choy, broccoli, brussels-sprouts, cabbage, carrot, cauliflower, celery, corn, cucumber, eggplant, green-beans, jalapeno, kale, leek, lettuce, mushroom, onion, peas, potato, radish, scallion, spinach, sweet-potato, tomato, zucchini
 
-**dairy** — butter, milk, cheese, cream, yogurt, parmesan, mozzarella, cheddar, feta, ricotta, sour cream
+### Fruits
 
-**grains** — rice, pasta, flour, bread, noodles, oats, quinoa, couscous, tortilla
+- apple, avocado, banana, blueberry, cherry, cranberry, grape, kiwi, lemon, lime, mango, orange, peach, pear, pineapple, raspberry, strawberry, watermelon
 
-**seasonings** — salt, pepper, paprika, cumin, oregano, basil, thyme, rosemary, cinnamon, ginger, chili, turmeric, nutmeg, clove, cardamom, bay leaf, dill, parsley, cilantro, mint, sage, cayenne, curry powder
+### Dairy
 
-**oils & sauces** — olive oil, soy sauce, honey, vinegar, sugar, ketchup, mustard, mayonnaise, sesame oil, coconut oil, maple syrup, peanut butter, tahini
+- butter, cheddar, cheese, cream, feta, milk, mozzarella, parmesan, ricotta, sour-cream, yogurt
 
-**nuts & seeds** — almond, walnut, peanut, cashew, pistachio, pecan, sesame seeds
+### Grains & Legumes
 
-**legumes** — black beans, chickpeas, lentils
+- black-beans, bread, chickpeas, couscous, flour, lentils, noodles, oats, pasta, quinoa, rice, tortilla
 
-**other** — chocolate, cocoa, vanilla, cornstarch
+### Nuts & Seeds
 
-## usage
+- almond, cashew, coconut, peanut, peanut-butter, pecan, pistachio, sesame-seeds, walnut
+
+### Herbs & Spices
+
+- basil, bay-leaf, cardamom, cayenne, chili, cilantro, cinnamon, clove, cumin, curry-powder, dill, ginger, mint, nutmeg, oregano, paprika, parsley, pepper, rosemary, sage, salt, thyme, turmeric
+
+### Oils & Condiments
+
+- coconut-oil, honey, ketchup, maple-syrup, mayonnaise, mustard, olive-oil, sesame-oil, soy-sauce, sugar, tahini, vanilla, vinegar
+
+### Other
+
+- cocoa, chocolate, cornstarch, garlic
+
+## Usage
 
 ```html
-<img src="https://raw.githubusercontent.com/0xGF/food-icons/master/tomato.png" width="64" />
+<img src="chicken.png" alt="Chicken" width="64" height="64" />
 ```
 
-## license
+## License
 
-mit — free for personal and commercial use
-
+Free to use for personal and commercial projects.
